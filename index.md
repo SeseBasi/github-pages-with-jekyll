@@ -1,3 +1,5 @@
 # Gracias por visitarme
 
 Haremos lo que hace la gente con internet...
+
+$\alpha$
